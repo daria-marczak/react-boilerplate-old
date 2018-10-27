@@ -5,9 +5,8 @@ import "../styles/App.scss";
 class App extends Component {
   render() {
     return (
-      <div className="first">
+      <div>
         I'm the app
-        <p>Hi</p>
       </div>
     )
   }
